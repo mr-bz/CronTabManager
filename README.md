@@ -11,3 +11,6 @@ sudo yum install -y nodejs
 
 
  node app.js
+
+Run npm : 
+   pm2 start app.js --name "CronTabManager"
