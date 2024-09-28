@@ -85,7 +85,7 @@ const listCronJobs = (req, res) => {
       };
     });
 
-    res.json({ cronJobs: jobs });
+    res.json({ count:jobs.length , cronJobs: jobs });
   });
 };
 
