@@ -1,3 +1,6 @@
+ git clone https://github.com/mr-bz/CronTabManager.git
+
+--------------------------------
 Ubuntu و Debian:
   curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
 
@@ -8,10 +11,9 @@ sudo apt install -y nodejs
 
 sudo yum install -y nodejs
 
-
+-------------------------------------
  npm install express
-
-
+ 
  node app.js
 
 Run npm : 
