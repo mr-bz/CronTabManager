@@ -15,6 +15,9 @@ sudo yum install -y nodejs
  npm install express
  
  node app.js
+npm install -g pm2
 
 Run npm : 
+npm install -g pm2
+
    pm2 start app.js --name "CronTabManager"
