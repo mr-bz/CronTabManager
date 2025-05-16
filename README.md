@@ -1,6 +1,6 @@
 .
  git clone https://github.com/mr-bz/CronTabManager.git
-cd CronTabManager
+ && cd CronTabManager
 --------------------------------
 Ubuntu و Debian:
  
