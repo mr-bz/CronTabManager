@@ -1,8 +1,10 @@
+.
  git clone https://github.com/mr-bz/CronTabManager.git
 cd CronTabManager
 --------------------------------
 Ubuntu و Debian:
-  curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+ 
+ curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
 
 sudo apt install -y nodejs
 
